@@ -5,7 +5,7 @@ authors:
 - Hilary Weingarden
 - Jennifer Greenberg
 - Thomas McCoy
-- **admin**
+- admin
 - Berta Summers
 - Aleksander Matic
 - Oliver Harrison
