@@ -28,11 +28,6 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: ""
-
-# Summary. An optional shortened abstract.
-summary:""
-
 tags:
 - Source Themes
 featured: false
