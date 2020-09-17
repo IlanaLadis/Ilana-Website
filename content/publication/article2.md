@@ -26,7 +26,7 @@ publishDate: "2019-02-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Behavior Therapy*"
+publication: "*Cognitive Therapy and Research*"
 publication_short: ""
 
 abstract: Body dysmorphic disorder (BDD) has a severe presentation and chronic course when untreated. Although effective BDD treatments exist, most individuals do not have access to them. We therefore developed and pilot tested the first smartphone-delivered individual cognitive-behavioral therapy (CBT) treatment for adults with BDD. The digital service was developed via user-centered design, integrating input from engineering, design, and psychology experts, plus BDD patient consultants. We conducted a 12-week open pilot trial (N = 10) to describe preliminary results for feasibility, acceptability, and treatment outcome. Attrition rates (0%) and feedback on usability and satisfaction indicated that smartphone-based CBT for BDD may be feasible, acceptable, and satisfactory. Initial results suggest that smartphone-based CBT for BDD may hold promise for improving BDD symptom severity, BDD-related insight, functional impairment, and quality of life, as scores from baseline to posttreatment improved with large-to-very large effects; depression improved with a medium effect. Ninety percent of participants were responders at posttreatment and 3-month follow-up. Smartphone-based CBT for BDD may have strong potential as a standardized, low cost, and accessible treatment for this debilitating illness. A test of efficacy is merited as a next step, using a well-powered, randomized control trial design.
