@@ -1,5 +1,5 @@
 ---
-title: "Cognitive-Behavioral Therapy in the Digital Age: Presidential Address"
+title: "Cognitive-behavioral therapy in the digital age: Presidential address"
 authors:
 - Sabine Wilhelm
 - Hilary Weingarden
