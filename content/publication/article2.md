@@ -1,5 +1,5 @@
 ---
-title: "d-Cycloserine-augmented behavior therapy for body dysmorphic disorder: A preliminary efficacy trial"
+title: "d-Cycloserine-augmented behavior therapy for body dysmorphic disorder: a preliminary efficacy trial"
 authors:
 - Hilary Weingarden
 - Suraj S. Mothi
