@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://virginia.box.com/s/ow3rn9ffdpc7y3m8r862bavd7godkmpi
 url_code: ''
 url_dataset: ''
 url_poster: ''
