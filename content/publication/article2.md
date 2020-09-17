@@ -1,14 +1,17 @@
 ---
 title: "D-Cycloserine-augmented behavior therapy for body dysmorphic disorder: A preliminary efficacy trial"
 authors:
-- Sabine Wilhelm
 - Hilary Weingarden
-- Jennifer Greenberg
-- Thomas McCoy
+- Suraj S. Mothi
 - admin
-- Berta Summers
-- Aleksander Matic
-- Oliver Harrison
+- Susanne Hoeppner
+- Hannah E. Reese
+- Kiara Timpano
+- Jedidiah Siev
+- Jessica Rasmussen
+- Jennifer Ragan
+- Darin D. Dougherty
+- Sabine Wilhelm
 
 date: "2020-01-01T00:00:00Z"
 doi: ""
