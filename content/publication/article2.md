@@ -1,16 +1,19 @@
 ---
 title: "d-Cycloserine-augmented behavior therapy for body dysmorphic disorder: A preliminary efficacy trial"
 authors:
-- Sabine Wilhelm
 - Hilary Weingarden
-- Jennifer Greenberg
-- Thomas McCoy
+- Suraj S. Mothi
 - admin
-- Berta Summers
-- Aleksander Matic
-- Oliver Harrison
+- Susanne Hoeppner
+- Hannah E. Reese
+- Kiara Timpano
+- Jedidiah Siev
+- Jessica Rasmussen
+- Jennifer Ragan
+- Darin D. Dougherty
+- Sabine Wilhelm
 
-date: "2020-01-01T00:00:00Z"
+date: "2019-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +26,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Behavior Therapy*"
+publication: "*Cognitive Therapy and Research*"
 publication_short: ""
 
-abstract: Body dysmorphic disorder (BDD) has a severe presentation and chronic course when untreated. Although effective BDD treatments exist, most individuals do not have access to them. We therefore developed and pilot tested the first smartphone-delivered individual cognitive-behavioral therapy (CBT) treatment for adults with BDD. The digital service was developed via user-centered design, integrating input from engineering, design, and psychology experts, plus BDD patient consultants. We conducted a 12-week open pilot trial (N = 10) to describe preliminary results for feasibility, acceptability, and treatment outcome. Attrition rates (0%) and feedback on usability and satisfaction indicated that smartphone-based CBT for BDD may be feasible, acceptable, and satisfactory. Initial results suggest that smartphone-based CBT for BDD may hold promise for improving BDD symptom severity, BDD-related insight, functional impairment, and quality of life, as scores from baseline to posttreatment improved with large-to-very large effects; depression improved with a medium effect. Ninety percent of participants were responders at posttreatment and 3-month follow-up. Smartphone-based CBT for BDD may have strong potential as a standardized, low cost, and accessible treatment for this debilitating illness. A test of efficacy is merited as a next step, using a well-powered, randomized control trial design.
+abstract: Cognitive behavioral therapy (CBT) is the leading psychotherapeutic treatment for body dysmorphic disorder (BDD), yet not all patients improve. To address the treatment response gap, CBT may be augmented with cognitive enhancers such as d-cycloserine (DCS). DCS-augmented behavior therapy has been tested with mixed results in related disorders. To initially test whether DCS may augment CBT for BDD, we conducted the first preliminary efficacy trial of DCS versus placebo augmented CBT for BDD, via a randomized, double-blind study. We analyzed data using mixed-effects models in a modified intent-to-treat sample (N=26). Over 10 weeks of treatment, primary (BDD severity) and secondary (insight, depression) outcomes improved significantly across both conditions, but there were no significant group differences in response. Exploratory analysis revealed that BDD-related distress, specifically, reduced significantly more in the DCS condition compared to
+placebo. This is the first study testing DCS-augmented CBT for BDD. Implications, limitations, and future directions are discussed.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -38,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://virginia.box.com/s/ow3rn9ffdpc7y3m8r862bavd7godkmpi
+url_pdf: https://virginia.box.com/s/4rl6473sveulq9eyee0nnbtjdyztdl3d
 url_code: ''
 url_dataset: ''
 url_poster: ''
