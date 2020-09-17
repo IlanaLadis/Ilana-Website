@@ -1,5 +1,5 @@
 ---
-title: "Development and pilot testing of a cognitive-behavioral therapy digital service for body dysmorphic disorder"
+title: "Cognitive-Behavioral Therapy in the Digital Age: Presidential Address"
 authors:
 - Sabine Wilhelm
 - Hilary Weingarden
