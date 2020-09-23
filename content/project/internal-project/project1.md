@@ -9,6 +9,7 @@ date: "2019-11-27T00:00:00Z"
 external_link: ""
 
 image:
+  placement: 1
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
