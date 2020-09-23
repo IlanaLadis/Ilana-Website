@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a second-year graduate student working with Bethany Teachman at the University of Virginia. My research interests include applications of machine learning to better understand, predict, and ultimately prevent suicidal thoughts and behaviors.
+I am a second-year graduate student working with <a href="http://teachman.org/index.html" target="_top">Bethany Teachman</a> at the University of Virginia. My research interests include applications of machine learning to better understand, predict, and ultimately prevent suicidal thoughts and behaviors.
