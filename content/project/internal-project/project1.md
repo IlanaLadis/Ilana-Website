@@ -1,9 +1,9 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Testing a Cognitive-Behavioral Smartphone Application for Body Dysmorphic Disorder
+summary: Maintenance of Gains at 6-month Follow-up
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- mobile health
+date: "2019-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,14 +13,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,12 +22,4 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Body dysmorphic disorder (BDD) is a common, chronic, and debilitating psychiatric illness (Buhlmann et al., 2010). Smartphone-based CBT poses a potential channel for disseminating specialized CBT for BDD to individuals who are unable or unwilling to access in-person therapy. However, it is unknown how well improvements in symptoms are maintained following the use of smartphone-based treatments (Donker et al., 2013). Given the severity and particularly the chronicity of BDD, it is imperative that smartphone-based treatments for BDD are capable of leading to long-term symptom reduction. We partnered with a telecommunications company to develop and pilot test Perspectives, the first comprehensive CBT app for BDD. Results from the initial pilot trial demonstrated that 90% of participants were treatment responders, with a large effect (d = 2.60; Wilhelm et al., 2019). While this study provides support for the preliminary efficacy of smartphone CBT for BDD, no study to date has examined maintenance of treatment gains at long-term follow-up. Thus, the present study aimed to examine maintenance of treatment gains from post-treatment to 6-month follow-up. Participants (N= 10) were recruited nationally and met DSM-5 criteria for BDD. Participants completed Perspectives on their personal smartphones over the course of 12 weeks and could access the app throughout the 6-month follow-up period to review content or practice skills. The Yale-Brown Obsessive-Compulsive Scale Modified for Body Dysmorphic Disorder (BDD-YBOCS; Phillips et al., 1997) and Brown Assessment of Beliefs Scale (BABS; Eisen et al. 1998) were used to measure BDD severity and insight, respectively, at post-treatment and 6-month follow-up assessments. Higher BDD-YBOCS scores correspond with greater BDD symptom severity, and lower BABS scores correspond with better insight. Maintenance of gains from post-treatment to 6-month follow-up were examined using paired t-tests. In terms of BDD severity, patients not only maintained gains from post treatment (M = 16.50, SD = 3.63) to 6 month follow-up (M = 12.10, SD= 4.70) but even continued to improve significantly in this time; t(9)= 3.30, p = .009. In terms of insight, gains were maintained from post-treatment (M= 5.10, SD= 1.45) to 6-month follow-up (M= 3.50, SD= 4.69); t(9)= 1.09, p = .302. These results suggest that improvements achieved via 12-week smartphone CBT for BDD are effectively maintained 6 months after treatment completion. This sample had severe BDD-YBOCS symptoms at baseline (M= 30.60, SD= 2.88). Thus, app-based CBT led to maintenance of gains even for individuals with acute BDD. Given the small sample size of the present pilot study, maintenance of gains following smartphone CBT for BDD should be further examined in larger trials.
