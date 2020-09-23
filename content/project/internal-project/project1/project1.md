@@ -9,7 +9,7 @@ date: "2019-11-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
+image: "featured.jpg"
   caption: 'Photo by rawpixel on Unsplash'
   focal_point: Smart
 
