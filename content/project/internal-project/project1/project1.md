@@ -10,7 +10,7 @@ external_link: ""
 
 image:
   placement: 1
-  caption: "Photo by rawpixel on Unsplash"
+  caption: 'Photo by rawpixel on Unsplash'
   focal_point: "Center"
   preview_only: false
 
