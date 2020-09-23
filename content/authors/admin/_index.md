@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include machine learning and the development of mobile app interventions. 
 
 interests:
-- emotion regulation
+- machine learning
 - real-time monitoring
-- mobile intervention development
+- mobile apps for mental health
 
 education:
   courses:
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a second-year graduate student at the University of Virginia studying clinical psychology. I work with Dr. Bethany Teachman. My research interests include the impact of daily state- and trait-level factors (e.g., insomnia; social support) on fluctuations in suicidal thoughts and behaviors. To this end, I employ mobile technology to assess intra- and inter-individual variability in affect and suicide risk. Ultimately, I hope that this research will inform the development of personalized, just-in-time interventions for individuals at risk for suicide.
+I am a second-year graduate student working with Bethany Teachman at the University of Virginia. My research interests include applications of machine learning to better understand, predict, and ultimately prevent suicidal thoughts and behaviors. Ultimately, I hope that this research will inform the development of personalized, just-in-time interventions for individuals at risk for suicide.
