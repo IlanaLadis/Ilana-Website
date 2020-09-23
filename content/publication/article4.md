@@ -32,7 +32,8 @@ abstract: Body dysmorphic disorder (BDD) has a severe presentation and chronic c
 summary: 
 
 tags:
-- Source Themes
+- Body dysmorphic disorder
+- User-centered design
 featured: false
 
 # links:
