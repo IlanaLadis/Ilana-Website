@@ -1,18 +1,17 @@
 ---
 title: Mobile App Development
-summary: 
+summary: ""
 tags:
 - mobile health
+- body dysmorphic disorder
 date: "2019-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  placement: 1
   caption: 'Photo by rawpixel on Unsplash'
-  focal_point: "Center"
-  preview_only: false
+  focal_point: Smart
 
 
 links:
