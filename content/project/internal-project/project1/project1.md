@@ -13,7 +13,8 @@ image:
   caption: 'Photo by rawpixel on Unsplash'
   focal_point: Smart
   
-{{< figure library="true" src="tef.jpg" title="A caption" >}}
+  ![Example image](/static/media/tef.jpg)
+
 
 links:
 
