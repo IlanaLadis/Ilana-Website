@@ -35,7 +35,8 @@ abstract: Cognitive behavioral therapy (CBT) is the leading psychotherapeutic tr
 summary: 
 
 tags:
-- Source Themes
+- D-cycloserine
+- behavior therapy
 featured: false
 
 # links:
