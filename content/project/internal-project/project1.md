@@ -1,5 +1,5 @@
 ---
-title: Testing a Cognitive-Behavioral Smartphone Application for Body Dysmorphic Disorder
+title: Long-term Effects of Smartphone Treatment
 summary: Maintenance of Gains at 6-month Follow-up
 tags:
 - mobile health
