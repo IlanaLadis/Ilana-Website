@@ -1,5 +1,5 @@
 ---
-title: Passive Sensing to Infer Anxiety States
+title: Passive Sensing
 summary: "       "
 tags:
 - smartphone
