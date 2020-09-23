@@ -1,6 +1,6 @@
 ---
-title: Long-term Effects of Smartphone Treatment
-summary: Maintenance of Gains at 6-month Follow-up
+title: Mobile App Development
+summary: 
 tags:
 - mobile health
 date: "2019-11-27T00:00:00Z"
