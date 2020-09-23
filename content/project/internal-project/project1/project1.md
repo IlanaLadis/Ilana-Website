@@ -12,8 +12,6 @@ external_link: ""
 image:
   caption: 'Photo by rawpixel on Unsplash'
   focal_point: Smart
-  
-  ![Example image](/static/media/tef.jpg)
 
 
 links:
