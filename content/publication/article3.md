@@ -30,7 +30,8 @@ abstract: Our field has come a long way in establishing cognitive-behavioral the
 summary: 
 
 tags:
-- Source Themes
+- Cognitive-behavioral therapy
+- Smartphone treatments
 featured: false
 
 # links:
