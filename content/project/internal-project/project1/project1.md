@@ -12,7 +12,8 @@ external_link: ""
 image:
   caption: 'Photo by rawpixel on Unsplash'
   focal_point: Smart
-
+  
+{{< figure library="true" src="tef.jpg" title="A caption" >}}
 
 links:
 
