@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning and the development of mobile app interventions. 
+bio: I use machine learning to inform just-in-time adaptive health interventions. 
 
 interests:
 - machine learning
 - real-time monitoring
-- mobile apps for mental health
+- just-in-time-adaptive interventions
 
 education:
   courses:
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a second-year graduate student working with <a href="http://teachman.org/labMembers.html" target="_top">Bethany Teachman</a> at the University of Virginia. My research interests include applications of machine learning to better understand, predict, and ultimately prevent suicidal thoughts and behaviors.
+I am a second-year graduate student working with <a href="http://teachman.org/labMembers.html" target="_top">Bethany Teachman</a> at the University of Virginia. I also collaborate with members of the <a href="https://faculty.virginia.edu/S2HeLab/team.php" target="_top">Sensing Systems for Health Lab</a> in UVA's Engineering Department. My program of research broadly focuses on using machine learning to inform just-in-time adaptive health interventions. To this end, I harness passively-collected smartphone and physiological data to better understand how mental health symptoms like depression and anxiety unfold in real time. 
