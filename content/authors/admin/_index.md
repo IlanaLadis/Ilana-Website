@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Clinical Psychology
+  - course: PhD in Psychology
     institution: University of Virginia
     year: expected 2025
   - course: BA in Psychology
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a second-year graduate student in clinical psychology working with <a href="http://teachman.org/labMembers.html" target="_top">Bethany Teachman</a> at the University of Virginia. I also collaborate with members of the <a href="https://faculty.virginia.edu/S2HeLab/team.php" target="_top">Sensing Systems for Health Lab</a> in UVA's Engineering Department. My program of research broadly focuses on using machine learning to inform just-in-time adaptive health interventions. To this end, I harness passively-collected smartphone and physiological data to better understand how mental health symptoms like depression and anxiety unfold in real time. 
+I am a second-year graduate student in psychology working with <a href="http://teachman.org/labMembers.html" target="_top">Bethany Teachman</a> at the University of Virginia. I also collaborate with members of the <a href="https://faculty.virginia.edu/S2HeLab/team.php" target="_top">Sensing Systems for Health Lab</a> in UVA's Engineering Department. My program of research broadly focuses on using machine learning to inform just-in-time adaptive health interventions. To this end, I harness passively-collected smartphone and physiological data to better understand how mental health symptoms like depression and anxiety unfold in real time. 
