@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research suicide, self-injury, and emotion regulation in daily life. 
+bio: Researching suicide, sleep disturbance and emotion regulation in daily life. 
 
 interests:
-- machine learning
-- real-time monitoring
-- just-in-time-adaptive interventions
+- suicide risk factors
+- sleep disturbance
+- emotion regulation
 
 education:
   courses:
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year clinical psychology Ph.D. student working with <a href="http://teachman.org/labMembers.html" target="_top">Bethany Teachman</a> at the University of Virginia. I also collaborate with members of the <a href="https://faculty.virginia.edu/S2HeLab/team.php" target="_top">Sensing Systems for Health Lab</a> in UVA's Engineering Department. I have two broad lines of research. First, I am interested in better understanding emotion regulation in daily life. I am also interested in understanding proximal risk factors for suicide using mobile technology, with an emphasis on sleep disturbance. My research is supported by the National Science Foundation's Graduate Research Fellowship Program. 
+I am a third-year clinical psychology Ph.D. student working with Bethany Teachman at the University of Virginia. I also collaborate with members of the Sensing Systems for Health Lab in UVA's Engineering Department. I have two broad lines of research. First, I am interested in better understanding emotion regulation in daily life. I am also interested in understanding proximal risk factors for suicide, with a particular emphasis on sleep disturbance. My research is supported by the National Science Foundation's Graduate Research Fellowship Program. 
