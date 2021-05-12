@@ -21,7 +21,7 @@ organizations:
 bio: Researching suicide, sleep disturbance and emotion regulation in daily life. 
 
 interests:
-- suicide risk factors
+- suicide
 - sleep disturbance
 - emotion regulation
 
