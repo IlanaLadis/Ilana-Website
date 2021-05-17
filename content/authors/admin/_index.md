@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year clinical psychology Ph.D. student working with Bethany Teachman at the University of Virginia. I have two broad lines of research. First, I am interested in better understanding emotion regulation in daily life. I am also interested in understanding proximal risk factors for suicide, with a particular emphasis on sleep disturbance. My research is supported by the National Science Foundation's Graduate Research Fellowship Program. 
+I am a third-year clinical psychology Ph.D. student working with Bethany Teachman at the University of Virginia. I have two broad lines of research. First, I am interested in better understanding proximal risk factors for suicide, with a particular emphasis on social media and sleep disturbance. I am also interested in understanding how people regulate their emotions in daily life. My research is supported by the National Science Foundation's Graduate Research Fellowship Program. 
