@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year clinical psychology Ph.D. student working with Bethany Teachman at the University of Virginia. I also collaborate with members of the Sensing Systems for Health Lab in UVA's Engineering Department. I have two broad lines of research. First, I am interested in better understanding emotion regulation in daily life. I am also interested in understanding proximal risk factors for suicide, with a particular emphasis on sleep disturbance. My research is supported by the National Science Foundation's Graduate Research Fellowship Program. 
+I am a third-year clinical psychology Ph.D. student working with Bethany Teachman at the University of Virginia. I have two broad lines of research. First, I am interested in better understanding emotion regulation in daily life. I am also interested in understanding proximal risk factors for suicide, with a particular emphasis on sleep disturbance. My research is supported by the National Science Foundation's Graduate Research Fellowship Program. 
