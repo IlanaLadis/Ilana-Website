@@ -22,14 +22,17 @@ bio: Researching suicide, sleep disturbance and emotion regulation in daily life
 
 interests:
 - suicide
-- sleep disturbance
-- emotion regulation
+- social media
+- insomnia
 
 education:
   courses:
   - course: PhD in Psychology
     institution: University of Virginia
     year: expected 2025
+  - course: MA in Clinical Psychology
+    institution: University of Virginia
+    year: 2021
   - course: BA in Psychology
     institution: Wesleyan University
     year: 2017
@@ -68,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year clinical psychology Ph.D. student working with Bethany Teachman at the University of Virginia. My program of research seeks to better understand proximal risk factors for suicide, with a particular emphasis on social media use and sleep disturbance. I am also interested in understanding how people regulate their emotions in daily life. My research is supported by the National Science Foundation's Graduate Research Fellowship Program. 
+I am a third-year clinical psychology Ph.D. student working with Bethany Teachman at the University of Virginia. My program of research seeks to better understand proximal risk factors for suicide and other mental health problems, with a particular emphasis on problematic social media use and sleep disturbance. I am also interested in understanding how people regulate their emotions in daily life. My research is supported by the National Science Foundation's Graduate Research Fellowship Program. 
