@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year clinical psychology Ph.D. student working with Bethany Teachman at the University of Virginia. My program of research seeks to better understand proximal risk factors for suicide and other mental health problems, with a particular emphasis on problematic social media use and sleep disturbance. I am also interested in understanding how people regulate their emotions in daily life. My research is supported by the National Science Foundation's Graduate Research Fellowship Program. 
+I am a third-year clinical psychology Ph.D. student working with Bethany Teachman at the University of Virginia. My program of research seeks to better understand proximal risk factors for suicide and other mental health problems, with an emphasis on problematic social media use and sleep disturbance. I am also interested in understanding how people regulate their emotions in daily life. Currently, I am funded by the National Science Foundation's Graduate Research Fellowship Program. 
