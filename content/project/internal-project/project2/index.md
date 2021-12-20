@@ -24,4 +24,4 @@ links:
 slides: example
 ---
 
-Slides presented at the Association for Psychological Science Conference (Held Virtually, May 2021)
+-Slides presented at the Association for Psychological Science Conference (Held Virtually, May 2021)
