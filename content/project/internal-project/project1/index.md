@@ -1,5 +1,5 @@
 ---
-title: Characterizing Sleep Disturbance Based on Text Messages of Suicide Attempt Survivors
+title: Sleep Disturbance Based and Text Messages of Suicide Attempt Survivors
 summary: "       "
 tags:
 - insomnia
