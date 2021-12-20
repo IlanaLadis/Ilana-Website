@@ -1,5 +1,5 @@
 ---
-title: Sleep Disturbance Based and Text Messages of Suicide Attempt Survivors
+title: Sleep Disturbance and Text Messages of Suicide Attempt Survivors
 summary: "       "
 tags:
 - insomnia
