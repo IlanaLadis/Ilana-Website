@@ -1,10 +1,10 @@
 ---
-title: Passive Sensing
+title: Emotion Regulation in Daily Life
 summary: "       "
 tags:
 - smartphone
-- passive sensing
-- social anxiety
+- emotion regulation
+- daily life
 date: "2019-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -24,4 +24,4 @@ links:
 slides: example
 ---
 
-Coming soon...
+Slides presented at the Association for Psychological Science Conference (Held Virtually, May 2021)
